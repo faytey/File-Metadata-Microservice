@@ -1,5 +1,7 @@
 # API Project: File Metadata Microservice for freeCodeCamp
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/drex44/File-Metadata-Microservice.svg)](https://greenkeeper.io/)
+
 ### User stories:
 
 1. I can submit a form that includes a file upload.
